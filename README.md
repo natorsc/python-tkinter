@@ -1,4 +1,4 @@
-![Criando interfaces gráficas com Python e Tkinter](./docs/images/python-tkinter-1600x840.png "Criando interfaces gráficas com Python e Tkinter")
+![Criando interfaces gráficas com Python e Tkinter](./docs/images/python-tkinter-1600x840.webp "Criando interfaces gráficas com Python e Tkinter")
 
 <br>
 
